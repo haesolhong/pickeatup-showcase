@@ -31,5 +31,9 @@
 | `share-buttons-*.png` | 공유 버튼의 이전 모습과 컴퓨터·안드로이드·아이폰 모습 | 안드로이드·아이폰은 터치 환경 에뮬레이션. 이전 모습은 제작자가 찍은 화면 |
 | `color-before-*.png`, `color-after-*.png` | 색 변경 전후 첫 화면 | 같은 크기, 같은 시점의 두 버전 |
 | `app-icons.png` | 앱 아이콘(일반, 안드로이드 모양 자르기용) | 배포된 아이콘 파일을 나란히 놓음 |
+| `app-tabbar-home-phone.png`, `app-group-tag-phone.png` | 설치 앱 하단 탭, 여럿이라면 태그 | 2026-10-04, 390 CSS px, 설치 앱 표시를 흉내 낸 브라우저 |
+| `location-off-android-phone.png` | 위치를 못 가져왔을 때 안내(안드로이드) | 2026-10-04, 위치 거부를 흉내 냄 |
+| `roulette-squeezed-phone-before.png` | 수정 전 찌그러진 룰렛 | 제작자가 휴대폰에서 찍은 화면, 이름은 예시 |
+| `roulette-fixed-phone.png` | 수정 후 룰렛 | 2026-10-04, 360×640 CSS px, 예시 이름 |
 
 이미지 속 이름(해솔·민석·민수 등)과 가게는 예시이고, 실제 이용자 정보가 아닙니다.
